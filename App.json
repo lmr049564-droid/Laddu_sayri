@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Laddu Shayari",
+    "slug": "laddu-shayari",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.laddu.shayari"
+    }
+  }
+}
